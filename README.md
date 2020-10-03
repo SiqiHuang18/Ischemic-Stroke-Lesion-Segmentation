@@ -2,8 +2,11 @@
 This repository contains the implementation of Unet Families for the task of segmenting 
 Ischemic Stroke Lesion.
 
+** Sample Output**
+From Left to Right: Input Image, Ground Truth , Predicted Segmentation Mask
 ![sample output](https://github.com/SiqiHuang18/Ischemic-Stroke-Lesion-Segmentation/blob/main/output/att1.png)
 
+## Repository Structure
 - DLM_final_ipynb  contains training , evaluation and experiment code
 - layers.py    contains some special layers implemented for networks. It need to be put in the same fold as DLM_final_ipynb
 - cross-validation  contains csv for five fold cross-validation
