@@ -2,7 +2,7 @@
 This repository contains the implementation of Unet Families for the task of segmenting 
 Ischemic Stroke Lesion.
 
-** Sample Output**
+**Sample Output**
 From Left to Right: Input Image, Ground Truth , Predicted Segmentation Mask
 ![sample output](https://github.com/SiqiHuang18/Ischemic-Stroke-Lesion-Segmentation/blob/main/output/att1.png)
 
